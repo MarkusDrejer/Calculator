@@ -126,7 +126,7 @@ public class Menus {
     }
 
     /* This method works just like the previous choice methods and works for the Quadratic calculation part of the program,
-     * with its own choice variable and it works. */
+     * with its own choice variable. */
 
     public void qSwitch(){
         int choice4;
